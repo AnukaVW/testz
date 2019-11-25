@@ -7,7 +7,7 @@ function createCard(){
         card.appendChild(blogger)
         document.body.appendChild(card)
     }
-//delete this line
+//delete this line of text
 }
 
 createCard()
